@@ -1,0 +1,31 @@
+Crew id,Name,Surname,Role,Company,License,Rest time
+1,Ivan,Petrov,CAPTAIN,Aeroflot,LIC-CPT-0001,12:00:00
+2,Erik,Lund,CAPTAIN,NordStar,LIC-CPT-0002,12:30:00
+3,Mert,Yilmaz,CAPTAIN,Turkish Airlines,LIC-CPT-0003,13:00:00
+4,Omar,Hassan,CAPTAIN,Qatar Airways,LIC-CPT-0004,14:00:00
+5,Kenji,Sato,CAPTAIN,Japan Airlines,LIC-CPT-0005,14:00:00
+6,Anna,Volkova,CAPTAIN,Air Serbia,LIC-CPT-0006,11:30:00
+7,Pavel,Smirnov,FIRST_OFFICER,Aeroflot,LIC-FO-0007,11:00:00
+8,Lars,Nyberg,FIRST_OFFICER,NordStar,LIC-FO-0008,11:30:00
+9,Deniz,Kaya,FIRST_OFFICER,Turkish Airlines,LIC-FO-0009,12:00:00
+10,Nadia,Rahman,FIRST_OFFICER,Qatar Airways,LIC-FO-0010,12:30:00
+11,Yuki,Tanaka,FIRST_OFFICER,Japan Airlines,LIC-FO-0011,12:30:00
+12,Milan,Jovanic,FIRST_OFFICER,Air Serbia,LIC-FO-0012,10:30:00
+13,Elena,Morozova,PURSER,Aeroflot,LIC-PUR-0013,10:00:00
+14,Sofia,Berg,PURSER,Lufthansa,LIC-PUR-0014,10:00:00
+15,Aylin,Demir,PURSER,Turkish Airlines,LIC-PUR-0015,10:30:00
+16,Maya,Al-Khalifa,PURSER,Qatar Airways,LIC-PUR-0016,11:00:00
+17,Olga,Sokolova,FLIGHT_ATTENDANT,Aeroflot,LIC-FA-0017,09:00:00
+18,Irina,Belova,FLIGHT_ATTENDANT,Aeroflot,LIC-FA-0018,09:00:00
+19,Freja,Lindholm,FLIGHT_ATTENDANT,SAS Connect,LIC-FA-0019,09:30:00
+20,Jonas,Eklund,FLIGHT_ATTENDANT,SAS Connect,LIC-FA-0020,09:30:00
+21,Ceren,Aydin,FLIGHT_ATTENDANT,Turkish Airlines,LIC-FA-0021,09:30:00
+22,Leyla,Karim,FLIGHT_ATTENDANT,Qatar Airways,LIC-FA-0022,10:00:00
+23,Mika,Kobayashi,FLIGHT_ATTENDANT,Japan Airlines,LIC-FA-0023,10:00:00
+24,Ana,Markovic,FLIGHT_ATTENDANT,Air Serbia,LIC-FA-0024,09:00:00
+25,Karlis,Ozols,FLIGHT_ATTENDANT,airBaltic,LIC-FA-0025,09:00:00
+26,Nina,Orlova,FLIGHT_ATTENDANT,Rossiya,LIC-FA-0026,09:00:00
+27,Sergey,Antonov,ENGINEER,Volga-Dnepr,LIC-ENG-0027,12:00:00
+28,Dmitry,Kuznetsov,ENGINEER,DHL Aviation,LIC-ENG-0028,12:00:00
+29,Farid,Mammadov,ENGINEER,Silk Way West,LIC-ENG-0029,12:30:00
+30,Mark,Reynolds,ENGINEER,FedEx Express,LIC-ENG-0030,12:30:00
