@@ -1,0 +1,21 @@
+aircraft_name,aircraft_type_id,business_seats,premium_economy_seats,economy_seats,owner
+A320-R01,1,16,24,120,Aeroflot
+B738-N01,2,12,18,138,NordStar
+A321-T01,3,20,24,165,Turkish Airlines
+B77W-E01,4,40,28,300,Emirates
+A333-Q01,5,30,21,230,Qatar Airways
+B789-J01,6,26,21,247,Japan Airlines
+ATR72-K1,7,0,0,70,Aurora
+E190-A01,8,8,0,96,Air Serbia
+A359-Q01,9,32,28,260,Qatar Airways
+B748F-C1,10,0,0,0,Cargolux
+A21X-L01,11,16,20,168,Lufthansa
+SSJ100-S1,12,8,0,87,Rossiya
+B763F-D1,13,0,0,0,DHL Aviation
+A223-B01,14,12,15,110,airBaltic
+C208-V01,15,0,0,9,Regional Air
+AN124-V1,16,0,0,0,Volga-Dnepr
+A319-U01,17,8,12,108,Ural Airlines
+B38M-R01,18,16,18,150,Ryanair
+IL76-C01,19,0,0,0,Silk Way West
+B77F-C02,20,0,0,0,FedEx Express
